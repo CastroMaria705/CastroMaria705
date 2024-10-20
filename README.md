@@ -56,6 +56,7 @@ Profissional com sólida formação em **Administração e Análise de Dados**, 
 - 🏫 **Pós-Graduação em Ciência Política** | 2021  
 - 💻 **Tecnólogo em Análise e Desenvolvimento de Sistemas** | 5º Semestre  
 - 📊 **Pós-graduação em Gestão por Processos e Projetos** | Em andamento
+- 💻 **Programador Full Stack – SENAI – DF (670h)** | Em andamento
 
 ---
 
